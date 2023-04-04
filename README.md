@@ -23,3 +23,11 @@ In addition to the files requested, two more `.csv` files are delivered through 
 - `test_set.csv` : containing the final data used for testing.
 
 - `train_set.csv` : containing the final data used for modeling.
+
+### Navegating sections
+
+For the sake of clarity, I've included in `solution.ipynb` several sections not explicitly requested. 
+
+The main points that were actually requested are marked with bold square brackets containing the 'challenge' number. They look very mucho like the following example:
+
+- __[Challenge #]__ A example section
